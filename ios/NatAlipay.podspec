@@ -17,3 +17,4 @@ Pod::Spec.new do |s|
 
   s.dependency "Alipay-SDK"
 
+end
