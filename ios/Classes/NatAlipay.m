@@ -6,7 +6,7 @@
 //
 
 #import "NatAlipay.h"
-#import AlipaySDK;
+#import <AlipaySDK/AlipaySDK.h>
 
 @interface NatAlipay ()
 @end
