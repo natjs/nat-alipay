@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "NatAlipay"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Nat.js Module: Alipay."
   s.homepage     = "http://natjs.com"
   s.license      = "MIT"
