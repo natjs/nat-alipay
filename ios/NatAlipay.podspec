@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       = { "nat" => "hi@natjs.com" }
 
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/natjs/nat-pay-alipay.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/natjs/nat-alipay.git", :tag => s.version }
 
   s.source_files  = "ios/Classes/*.{h,m}"
 
